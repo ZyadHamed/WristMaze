@@ -28,11 +28,11 @@
 
 ## 📽️ Demo
 
-> **[📹 Click here to watch the demo video]** ← *Insert demo video link or embed here*
+### Game DEMO:
+https://github.com/user-attachments/assets/8148428a-4fe5-4618-8dcb-32ad8ce38958
 
-<!-- To embed a YouTube video, use:
-[![Demo Video](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
--->
+### Patient perspective DEMO:
+https://github.com/user-attachments/assets/69ad2144-46cc-4780-ae58-e9f8dc05f228
 
 ---
 

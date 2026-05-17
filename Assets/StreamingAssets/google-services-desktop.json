@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "77087905909",
+    "firebase_url": "https://marblemazecontrol-default-rtdb.firebaseio.com",
+    "project_id": "marblemazecontrol",
+    "storage_bucket": "marblemazecontrol.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:77087905909:android:eca87f5e0007ea0baa403c",
+        "android_client_info": {
+          "package_name": "com.team1.WristMaze"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD07ttMOZmOwPWrcp4u9b5hktxPiEaPPic"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
